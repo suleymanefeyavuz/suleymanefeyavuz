@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Süleyman Efe Yavuz</h1>
-<h3 align="center">A Curious Front-End Developer Student from Macedonia</h3>
+<h3 align="center">A Curious Software Engineering Student from Macedonia</h3>
 
 - 🌱 I’m currently learning **JavaScript**
 
